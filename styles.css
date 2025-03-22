@@ -10,9 +10,9 @@ body {
   text-align: center;
   color: #fff;
   overflow: hidden;
-  background: linear-gradient(120deg, #ff0080, #ff8c00, #40e0d0, #00ff00, #0000ff, #8a2be2);
+  background: linear-gradient(120deg, #800080, #dda0dd); /* Фиолетовый к сиреневому */
   background-size: 600% 600%;
-  animation: gradientShift 60s infinite;
+  animation: gradientShift 60s infinite; /* Анимация для плавного перехода */
   display: flex;
   flex-direction: column;
   justify-content: center;
